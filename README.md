@@ -6,7 +6,7 @@ In September of 2020, my best friend inspired me to become a programmer. Since t
 
 <br />
 
-I managed to create two full-stack projects and a portfolio (http://www.bryanyi.com) in a couple months while maintaining a full-time job I'm now in the process of interviewing for software developer positions while studying data structures and algorithms!
+I managed to create a few full-stack projects and a portfolio (http://www.bryanyi.com) in a couple months while maintaining a full-time job I'm now in the process of interviewing for software developer positions while studying data structures and algorithms!
 
 ---- 
 
