@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I'm [Bryan Yi](http://www.bryanyi.com).
+
+In September of 2020, my best friend introduced me to the world of programming. Since then I have been using the plethora of resouces online to teach myself the basics of web development and software engineering. I managed to create two full-stack projects and a [portfolio](http://www.bryanyi.com) in a couple months, and now in the process of interviewing for software developer positions. 
+
 
 <!--
 **bryanyi/bryanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
