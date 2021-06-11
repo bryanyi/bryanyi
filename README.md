@@ -2,7 +2,7 @@
 
 I'm [Bryan Yi](http://www.bryanyi.com).
 
-In September of 2020, my best friend inspired me to become a programmer. Since then, I have been using the plethora of resouces online to teach myself the basics of web development and software engineering. 
+In September of 2020, my best friend inspired me to become a programmer. Since then, I have been using the plethora of resources online to teach myself the basics of web development and software engineering. 
 
 <br />
 
