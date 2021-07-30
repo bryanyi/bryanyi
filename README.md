@@ -2,11 +2,15 @@
 
 I'm [Bryan Yi](http://www.bryanyi.com).
 
-At the end of 2020, my best friend inspired me to become a programmer. He knew that building and creating things was what made me come alive, and I had no idea what software engineering was. Since then, I have been using the plethora of online resources to teach myself the basics of web development and software engineering. 
+At the end of 2020, my best friend inspired me to become a programmer. He knew that building and creating things was what made me come alive. Since then, I have been using a plethora of online resources to teach myself the basics of web development and software engineering. 
 
 <br />
 
 I managed to create a few full-stack projects and a portfolio (http://www.bryanyi.com) while maintaining a full-time job as a medical assistant, and eventually landed my first role as a developer. I'm proud to say that I am a self-taught, but I couldn't have done it without my mentors.
+
+<br />
+
+I absolutely love the aspect of constantly learning and pondering on challenging problems. And in the end, I want to create software that positively impacts people's lives. Lately, I've been having a lot of fun with Next.js, Tailwind CSS, GraphQL, and Flask.
 
 ---- 
 
