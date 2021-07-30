@@ -2,7 +2,7 @@
 
 I'm [Bryan Yi](http://www.bryanyi.com).
 
-At the end of 2020, my best friend inspired me to become a programmer. He knew that building and creating things was what made me come alive, and I had no idea what software engineering was. Since then, I have been using the plethora of resources online to teach myself the basics of web development and software engineering. 
+At the end of 2020, my best friend inspired me to become a programmer. He knew that building and creating things was what made me come alive, and I had no idea what software engineering was. Since then, I have been using the plethora of online resources to teach myself the basics of web development and software engineering. 
 
 <br />
 
