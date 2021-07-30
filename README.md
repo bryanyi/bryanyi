@@ -2,11 +2,11 @@
 
 I'm [Bryan Yi](http://www.bryanyi.com).
 
-In September of 2020, my best friend inspired me to become a programmer. Since then, I have been using the plethora of resources online to teach myself the basics of web development and software engineering. 
+At the end of 2020, my best friend inspired me to become a programmer. He knew that building and creating things was what made me come alive, and I had no idea what software engineering was. Since then, I have been using the plethora of resources online to teach myself the basics of web development and software engineering. 
 
 <br />
 
-I managed to create a few full-stack projects and a portfolio (http://www.bryanyi.com) in a couple months while maintaining a full-time job. I'm now in the process of interviewing for software developer positions while studying data structures and algorithms!
+I managed to create a few full-stack projects and a portfolio (http://www.bryanyi.com) while maintaining a full-time job as a medical assistant, and eventually landed my first role as a developer. I'm proud to say that I am a self-taught, but I couldn't have done it without my mentors.
 
 ---- 
 
