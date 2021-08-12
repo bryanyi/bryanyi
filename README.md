@@ -10,7 +10,7 @@ I managed to create a few full-stack projects and a portfolio (http://www.bryany
 
 <br />
 
-I absolutely love the aspect of constantly learning and pondering on challenging problems. Ultimately, I want to create software that positively impacts people's lives. Lately, I've been having a lot of fun with Next.js, Tailwind CSS, GraphQL, and Flask.
+I absolutely love the aspect of constantly learning and pondering on challenging problems. Ultimately, I want to create software that positively impacts people's lives. Lately, I've been having a lot of fun with Next.js Typescript, Tailwind CSS, and GraphQL.
 
 ---- 
 
