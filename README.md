@@ -2,32 +2,12 @@
 
 I'm [Bryan Yi](http://www.bryanyi.com).
 
-At the end of 2020, my best friend inspired me to become a programmer. He knew that building and creating things was what made me come alive. Since then, I have been using a plethora of online resources to teach myself the basics of web development and software engineering. 
+<br/>
 
-<br />
+Hey there 👋
 
-I managed to create a few full-stack projects and a portfolio (http://www.bryanyi.com) while maintaining a full-time job as a medical assistant, and eventually landed my first role as a developer. I'm proud to say that I am a self-taught, but I couldn't have done it without my mentors.
+I'm a self-taught developer (thank god for YouTube) who transitioned from healthcare to software engineering. I studied every day between my full-time job and on the weekends to land my first gig within 9 months. 
 
-<br />
+I've been enamored with computer science since I learned about the field. Outside of work, I love exercising at the gym, kickboxing, playing guitar, snowboarding, and going on morning walks with my wife.
 
-I absolutely love the aspect of constantly learning and pondering on challenging problems. Ultimately, I want to create software that positively impacts people's lives. Lately, I've been having a lot of fun with Next.js, Typescript, Tailwind CSS, GraphQL, and Node.js.
-
----- 
-
-### Languages and Tools:
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-
+Lately, I've been having fun learning Java/Springboot, microservices, and devops.
