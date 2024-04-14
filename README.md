@@ -8,4 +8,4 @@ I'm a self-taught developer (thank god for YouTube) who transitioned from health
 
 I've been enamored with computer science since I learned about the field. Outside of work, I love weight lifting at the gym, playing guitar, snowboarding, and going on calm morning walks with my wife.
 
-Lately, I've been having fun learning more about Java/Springboot and microservices.
+Lately, I've been having fun learning more about microservices with SpringBoot and Rust for CLI apps.
