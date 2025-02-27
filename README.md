@@ -4,8 +4,8 @@ I'm [Bryan Yi](http://www.bryanyi.com).
 
 <br/>
 
-I'm a self-taught developer (thank god for YouTube) who transitioned from healthcare to software engineering. I studied every day between my full-time job and on the weekends to land my first gig within 9 months. 
+I'm a self-taught developer (thank god for YouTube) who transitioned from healthcare to software engineering. Through pure grit and adopting the growth mindset, I studied every day while maintaining a full-time job as a medical assistant at an ENT clinic to deepen my understanding of computer science to ultimately land my first gig.
 
-I've been enamored with computer science since I learned about the field. Outside of work, I love weight lifting at the gym, playing guitar, snowboarding, and going on calm morning walks with my wife.
+I've been enamored with computer science since I learned about the field. Outside of work, I enjoy practicing calisthentics, learning Polyphia riffs on the electric guitar, bouldering, discovering different coffee bean flavors (`CoffeeBrewMethods myDailyDriver = CoffeeBrewMethods.MOKA_POT`), and day dreaming with my wife about adopting a grey hound and a staffy.
 
-Lately, I've been having fun learning more about microservices with SpringBoot and Rust for CLI apps.
+Lately, I've been learning more about distributed systems, C++ with Raylib, and Rust for CLI apps.
