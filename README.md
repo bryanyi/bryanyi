@@ -8,4 +8,4 @@ I'm a self-taught developer (thank god for YouTube) who transitioned from health
 
 I've been enamored with computer science since I learned about the field. Outside of work, I enjoy practicing calisthentics, learning Polyphia riffs on the electric guitar, bouldering, discovering different coffee bean flavors (`CoffeeBrewMethods myDailyDriver = CoffeeBrewMethods.MOKA_POT`), and day dreaming with my wife about adopting a grey hound and a staffy.
 
-Lately, I've been learning more about distributed systems, C++ with Raylib, and Rust for CLI apps.
+Lately, I've been diving into websockets and multithreading with Java within distributed sytems, and Rust+wgpu.
